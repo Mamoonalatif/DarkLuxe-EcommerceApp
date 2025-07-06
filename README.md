@@ -1,11 +1,14 @@
 # DarkLuxe Ecommerce App
 
 DarkLuxe Ecommerce App is a professional, full-featured web application built with C# and ASP.NET Core (.NET 8.0), designed to deliver a seamless online shopping experience. The project showcases modern, modular, and scalable architecture suitable for diverse ecommerce needs.
-![image](https://github.com/user-attachments/assets/3b6d30a7-4327-46a8-b972-67d0f6b9de51)
-![image](https://github.com/user-attachments/assets/8597a30d-de38-46f5-a130-4265c3ff3e37)
-![image](https://github.com/user-attachments/assets/bac637c0-a69a-4e04-b601-6aa3721345c0)
-![image](https://github.com/user-attachments/assets/4394d542-1f65-4b65-8b97-33c51d915242)
-![image](https://github.com/user-attachments/assets/e702a7a4-eb5a-4a1c-b952-e11258787438)
+![image](https://github.com/user-attachments/assets/3b864c61-783a-433a-82f6-32a05ab8b570)
+![image](https://github.com/user-attachments/assets/bedfff08-1228-4e9d-91e5-740b9f644c8d)
+![image](https://github.com/user-attachments/assets/4d7a9f47-b14c-4f1b-8300-b2c147ec873a)
+![image](https://github.com/user-attachments/assets/189272d3-4ee6-442b-92e3-14b4da75b60e)
+![image](https://github.com/user-attachments/assets/3d86cd82-06e9-4cf0-8d2a-fd09274d4bd8)
+![image](https://github.com/user-attachments/assets/d922fdfe-8b0b-4613-9fbe-aae8dc2c4d29)
+![image](https://github.com/user-attachments/assets/ad13ad72-b381-42a4-b337-1868dbda2add)
+
 ## Features
 
 - **C# and ASP.NET Core**: Developed using C# on the .NET 8.0 platform for powerful backend logic and modern development practices.
