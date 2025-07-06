@@ -1,0 +1,42 @@
+﻿@page "/order-confirmation/{TotalPrice:decimal}"
+@using ECommerceApp.Services
+@inject OrderService OrderService
+@inject NavigationManager Navigation
+@rendermode InteractiveServer
+
+<div class="container mt-5">
+    <h2 class="text-center text-white">Order Confirmation</h2>
+    <div class="card bg-dark text-white p-4 mt-3">
+        <h4 class="text-center">Thank you for your order!</h4>
+        <hr />
+        <h5 class="text-center">Order Summary</h5>
+        @foreach (var item in OrderItems)
+        {
+            <div class="d-flex justify-content-between">
+                <span>@item.Product.Name (x@(item.Quantity))</span>
+                <span>$@item.Total.ToString("N2")</span>
+            </div>
+        }
+        <hr />
+        <div class="d-flex justify-content-between fw-bold">
+            <span>Total Price:</span>
+            <span>$@TotalPrice.ToString("N2")</span>
+        </div>
+        <div class="text-center mt-4">
+            <button class="btn btn-outline-light" @onclick="GoHome">Go Home</button>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public decimal TotalPrice { get; set; }
+
+    private List<CartItem> OrderItems => OrderService.LastPlacedOrder?.Items ?? new();
+
+    private void GoHome()
+    {
+        Navigation.NavigateTo("/");
+        StateHasChanged();
+    }
+}

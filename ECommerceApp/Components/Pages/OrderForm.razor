@@ -1,0 +1,95 @@
+﻿@using ECommerceApp.Services
+@inject OrderService OrderService
+@inject CustomerService CustomerService
+@inject NavigationManager Navigation
+
+@if (Product != null)
+{
+    <div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,0.6);">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content bg-dark text-white">
+                <div class="modal-header">
+                    <h4 class="modal-title">Complete Your Order</h4>
+                    <br />
+                    <h5 class="modal-title">Order Summary: @Product.Name</h5>
+                    @foreach (var item in OrderService.GetOrderItems())
+                    {
+                        <div class="d-flex justify-content-between">
+                            <span>@item.Product.Name (x@(item.Quantity))</span>
+                            <span>$@item.Total.ToString("N2")</span>
+                        </div>
+                    }
+                    <hr />
+                    <div class="d-flex justify-content-between fw-bold">
+                        <span>Total:</span>
+                        <span>$@OrderService.GetTotalPrice().ToString("N2")</span>
+                    </div>
+                </div>
+
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label class="form-label">Name</label>
+                        <input class="form-control bg-dark text-white" @bind="customer.Name" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Email</label>
+                        <input type="email" class="form-control bg-dark text-white" @bind="customer.Email" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Address</label>
+                        <input class="form-control bg-dark text-white" @bind="customer.Address" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Contact Number</label>
+                        <input class="form-control bg-dark text-white" @bind="customer.ContactNumber" />
+                    </div>
+                    <div class="mb-3 d-flex justify-content-between">
+                        <button class="btn btn-outline-light" @onclick="DecrementQuantity">-</button>
+                        <span class="fs-5">@currentQuantity</span>
+                        <button class="btn btn-outline-light" @onclick="IncrementQuantity">+</button>
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <button class="btn btn-outline-light" @onclick="ConfirmOrder">Place Order</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public Product Product { get; set; }
+    [Parameter] public EventCallback OnOrderPlaced { get; set; }
+
+    private Customer customer = new();
+    private int currentQuantity = 1;
+
+    protected override void OnInitialized()
+    {
+        OrderService.InitializeOrder(Product);
+        currentQuantity = 1; 
+    }
+
+    private void IncrementQuantity()
+    {
+        currentQuantity++;
+        OrderService.AddQuantityToProduct(Product, 1); 
+    }
+
+    private void DecrementQuantity()
+    {
+        if (currentQuantity > 1)
+        {
+            currentQuantity--;
+            OrderService.AddQuantityToProduct(Product, -1); 
+        }
+    }
+    private async Task ConfirmOrder()
+    {
+        CustomerService.SaveCustomer(customer);
+        OrderService.PlaceOrder(customer);
+        await OnOrderPlaced.InvokeAsync();
+        Navigation.NavigateTo($"/order-confirmation/{OrderService.LastPlacedOrder.TotalPrice.ToString(System.Globalization.CultureInfo.InvariantCulture)}");
+    }
+}

@@ -1,0 +1,90 @@
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\appsettings.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.staticwebassets.runtime.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.staticwebassets.endpoints.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.exe
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.deps.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.runtimeconfig.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.dll
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.pdb
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\scopedcss\bundle\ECommerceApp.styles.css
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceApp.props
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceApp.props
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceApp.props
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.dll
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\refint\ECommerceApp.dll
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.pdb
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.genruntimeconfig.cache
+C:\Users\mamoo\source\repos\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ref\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\appsettings.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.staticwebassets.runtime.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.staticwebassets.endpoints.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.exe
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.deps.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.runtimeconfig.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.pdb
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\scopedcss\bundle\ECommerceApp.styles.css
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceApp.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceApp.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceApp.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\refint\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.pdb
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.genruntimeconfig.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4th sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ref\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\appsettings.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.staticwebassets.endpoints.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.staticwebassets.runtime.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.exe
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.deps.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.runtimeconfig.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.pdb
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\scopedcss\bundle\ECommerceApp.styles.css
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceApp.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceApp.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceApp.props
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\refint\ECommerceApp.dll
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.pdb
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.genruntimeconfig.cache
+C:\Users\mamoo\OneDrive\Documents\UNI\4sem\Visual Programming\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ref\ECommerceApp.dll

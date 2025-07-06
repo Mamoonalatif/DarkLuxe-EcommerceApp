@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C1.jpg",
+      "PackagePath": "staticwebassets\\images\\C1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C2.jpg",
+      "PackagePath": "staticwebassets\\images\\C2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C5.jpg",
+      "PackagePath": "staticwebassets\\images\\C5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H1.jpg",
+      "PackagePath": "staticwebassets\\images\\H1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H10.jpg",
+      "PackagePath": "staticwebassets\\images\\H10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H11.jpg",
+      "PackagePath": "staticwebassets\\images\\H11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H12.jpg",
+      "PackagePath": "staticwebassets\\images\\H12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H13.jpg",
+      "PackagePath": "staticwebassets\\images\\H13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H14.jpg",
+      "PackagePath": "staticwebassets\\images\\H14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H15.jpg",
+      "PackagePath": "staticwebassets\\images\\H15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H16.jpg",
+      "PackagePath": "staticwebassets\\images\\H16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H2.jpg",
+      "PackagePath": "staticwebassets\\images\\H2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H3.jpg",
+      "PackagePath": "staticwebassets\\images\\H3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H4.jpg",
+      "PackagePath": "staticwebassets\\images\\H4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H5.jpg",
+      "PackagePath": "staticwebassets\\images\\H5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H6.jpg",
+      "PackagePath": "staticwebassets\\images\\H6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H7.jpg",
+      "PackagePath": "staticwebassets\\images\\H7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H8.jpg",
+      "PackagePath": "staticwebassets\\images\\H8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H9.jpg",
+      "PackagePath": "staticwebassets\\images\\H9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECommerceApp.props",
+      "PackagePath": "build\\ECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerceApp.props",
+      "PackagePath": "buildMultiTargeting\\ECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerceApp.props",
+      "PackagePath": "buildTransitive\\ECommerceApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

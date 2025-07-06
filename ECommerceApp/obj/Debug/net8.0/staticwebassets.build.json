@@ -1,0 +1,2494 @@
+{
+  "Version": 1,
+  "Hash": "/0NzJp6MQv5W2LY4CUrKxQI7JB9TNK6BRBkoD59didA=",
+  "Source": "ECommerceApp",
+  "BasePath": "_content/ECommerceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerceApp\\wwwroot",
+      "Source": "ECommerceApp",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\app.css",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ygbgdfc2y",
+      "Integrity": "iH4Dx1KzsYhXwvtyD+9J/MKhU3MYGJvl6EL2qWUl0Mk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\favicon.png",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\about.png",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/about#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9jbk3jlrij",
+      "Integrity": "ZZYw4DvdqgUPqJDOJoLqC454kaK10xn1E/EJXwoAmAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about.png"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C1.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/C1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zm46ypy2dw",
+      "Integrity": "+2IPHEuHPX11WKvSp91GziiZBxn9LGNfey7rPnRHblk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\C1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C2.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/C2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp26lhdoqs",
+      "Integrity": "zMMI1OSHhNuwSyece3d+2I+dWTXZqr2B0QkFPqy7cp0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\C2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C5.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/C5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5m6196jhp3",
+      "Integrity": "vchcQykCKe86qWliEh4MVIMomR6/TrEnITQjiLq1iTM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\C5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H1.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vabca229s2",
+      "Integrity": "N7bAXe+/3O5JX+kP4YJX83L3mYFjKwyJYLPhxByXRp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H10.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eb3w1c9pvz",
+      "Integrity": "NgZp9KixgN6M52AT1+LUI1+RaaUMs/zTczx18CfVIu4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H11.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "29g0hr8h3g",
+      "Integrity": "uvAuR0EE9gOqnHvquzNg248VoirshdWD9wSo3uTMVDY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H12.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ua9lbdsi31",
+      "Integrity": "ql5fX2aGndKuqXCQZvwBh7NUMsrMEE+NlK5ZVwD+eM8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H13.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H13#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n5iqk9910b",
+      "Integrity": "lflKykKIn36SDE3fhKoEOxGb07DYSt69BCweG2rra+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H14.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mfuxk93mx7",
+      "Integrity": "UiA8tfSRTuAOZ+x6rDvUxF3vzMLy958vmx9SHaBW+10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H14.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H15.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H15#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3dghgwso4o",
+      "Integrity": "6ULVrhpchaHu5diu/kRmuvUvuma5tC90KTuwdF+6mL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H16.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cdv92nu4n6",
+      "Integrity": "EOX6u0uKQqdUu5hv1D2msnPB2aJmq3ZARAutSOqHszc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H16.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H2.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j88qqe4xsa",
+      "Integrity": "zYHnqE35nwC0u9RHY/w+DBackzKxZrJFJMWoyM07dS8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H3.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9lkgzt0hnr",
+      "Integrity": "PaN2kUcGklor+4LGeSzJCqdIawdS/RNzUIZOv6mw9WU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H4.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "10btlxzd2d",
+      "Integrity": "8aX8HOQDLmBhbwakFTv3+dXwZXL/jlk6lAQSq+K4iBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H5.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ecsfituo1h",
+      "Integrity": "wvzjN9rbmceEetuET/aLxtJ3oU4Fj5eaTNcpobRPI/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H6.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gen9i1hft1",
+      "Integrity": "SFtqSCE4MsG5e5+9Zij9lvpwdn4c9bhL+ShNEdBqHmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H7.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zfnu7xrbxb",
+      "Integrity": "L80o+4+7mV8VSJDSh/ZWJ95ek1UUZyRKER+fJr8LXTQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H8.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xhqfmf8qx",
+      "Integrity": "x6tABag0fnTxSvXrENnMwEAP211hyoHphUSHZ4+vVic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H9.jpg",
+      "SourceId": "ECommerceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\",
+      "BasePath": "_content/ECommerceApp",
+      "RelativePath": "images/H9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f80tpx6gy0",
+      "Integrity": "b+MElxUUW8wgwHvHRcYDJAn3+AmwkrvwetgnQTJcAbU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\H9.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.0ygbgdfc2y.css",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iH4Dx1KzsYhXwvtyD+9J/MKhU3MYGJvl6EL2qWUl0Mk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ygbgdfc2y"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iH4Dx1KzsYhXwvtyD+9J/MKhU3MYGJvl6EL2qWUl0Mk="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iH4Dx1KzsYhXwvtyD+9J/MKhU3MYGJvl6EL2qWUl0Mk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iH4Dx1KzsYhXwvtyD+9J/MKhU3MYGJvl6EL2qWUl0Mk="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/about.9jbk3jlrij.png",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\about.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZYw4DvdqgUPqJDOJoLqC454kaK10xn1E/EJXwoAmAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9jbk3jlrij"
+        },
+        {
+          "Name": "label",
+          "Value": "images/about.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZYw4DvdqgUPqJDOJoLqC454kaK10xn1E/EJXwoAmAE="
+        }
+      ]
+    },
+    {
+      "Route": "images/about.png",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\about.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZYw4DvdqgUPqJDOJoLqC454kaK10xn1E/EJXwoAmAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZYw4DvdqgUPqJDOJoLqC454kaK10xn1E/EJXwoAmAE="
+        }
+      ]
+    },
+    {
+      "Route": "images/C1.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+2IPHEuHPX11WKvSp91GziiZBxn9LGNfey7rPnRHblk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+2IPHEuHPX11WKvSp91GziiZBxn9LGNfey7rPnRHblk="
+        }
+      ]
+    },
+    {
+      "Route": "images/C1.zm46ypy2dw.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+2IPHEuHPX11WKvSp91GziiZBxn9LGNfey7rPnRHblk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zm46ypy2dw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/C1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+2IPHEuHPX11WKvSp91GziiZBxn9LGNfey7rPnRHblk="
+        }
+      ]
+    },
+    {
+      "Route": "images/C2.gp26lhdoqs.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zMMI1OSHhNuwSyece3d+2I+dWTXZqr2B0QkFPqy7cp0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp26lhdoqs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/C2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zMMI1OSHhNuwSyece3d+2I+dWTXZqr2B0QkFPqy7cp0="
+        }
+      ]
+    },
+    {
+      "Route": "images/C2.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zMMI1OSHhNuwSyece3d+2I+dWTXZqr2B0QkFPqy7cp0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zMMI1OSHhNuwSyece3d+2I+dWTXZqr2B0QkFPqy7cp0="
+        }
+      ]
+    },
+    {
+      "Route": "images/C5.5m6196jhp3.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vchcQykCKe86qWliEh4MVIMomR6/TrEnITQjiLq1iTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5m6196jhp3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/C5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchcQykCKe86qWliEh4MVIMomR6/TrEnITQjiLq1iTM="
+        }
+      ]
+    },
+    {
+      "Route": "images/C5.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\C5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vchcQykCKe86qWliEh4MVIMomR6/TrEnITQjiLq1iTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vchcQykCKe86qWliEh4MVIMomR6/TrEnITQjiLq1iTM="
+        }
+      ]
+    },
+    {
+      "Route": "images/H1.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7bAXe+/3O5JX+kP4YJX83L3mYFjKwyJYLPhxByXRp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7bAXe+/3O5JX+kP4YJX83L3mYFjKwyJYLPhxByXRp4="
+        }
+      ]
+    },
+    {
+      "Route": "images/H1.vabca229s2.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7bAXe+/3O5JX+kP4YJX83L3mYFjKwyJYLPhxByXRp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vabca229s2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7bAXe+/3O5JX+kP4YJX83L3mYFjKwyJYLPhxByXRp4="
+        }
+      ]
+    },
+    {
+      "Route": "images/H10.eb3w1c9pvz.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NgZp9KixgN6M52AT1+LUI1+RaaUMs/zTczx18CfVIu4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eb3w1c9pvz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NgZp9KixgN6M52AT1+LUI1+RaaUMs/zTczx18CfVIu4="
+        }
+      ]
+    },
+    {
+      "Route": "images/H10.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NgZp9KixgN6M52AT1+LUI1+RaaUMs/zTczx18CfVIu4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NgZp9KixgN6M52AT1+LUI1+RaaUMs/zTczx18CfVIu4="
+        }
+      ]
+    },
+    {
+      "Route": "images/H11.29g0hr8h3g.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uvAuR0EE9gOqnHvquzNg248VoirshdWD9wSo3uTMVDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "29g0hr8h3g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uvAuR0EE9gOqnHvquzNg248VoirshdWD9wSo3uTMVDY="
+        }
+      ]
+    },
+    {
+      "Route": "images/H11.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uvAuR0EE9gOqnHvquzNg248VoirshdWD9wSo3uTMVDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uvAuR0EE9gOqnHvquzNg248VoirshdWD9wSo3uTMVDY="
+        }
+      ]
+    },
+    {
+      "Route": "images/H12.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ql5fX2aGndKuqXCQZvwBh7NUMsrMEE+NlK5ZVwD+eM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ql5fX2aGndKuqXCQZvwBh7NUMsrMEE+NlK5ZVwD+eM8="
+        }
+      ]
+    },
+    {
+      "Route": "images/H12.ua9lbdsi31.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ql5fX2aGndKuqXCQZvwBh7NUMsrMEE+NlK5ZVwD+eM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ua9lbdsi31"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ql5fX2aGndKuqXCQZvwBh7NUMsrMEE+NlK5ZVwD+eM8="
+        }
+      ]
+    },
+    {
+      "Route": "images/H13.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lflKykKIn36SDE3fhKoEOxGb07DYSt69BCweG2rra+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lflKykKIn36SDE3fhKoEOxGb07DYSt69BCweG2rra+s="
+        }
+      ]
+    },
+    {
+      "Route": "images/H13.n5iqk9910b.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lflKykKIn36SDE3fhKoEOxGb07DYSt69BCweG2rra+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n5iqk9910b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H13.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lflKykKIn36SDE3fhKoEOxGb07DYSt69BCweG2rra+s="
+        }
+      ]
+    },
+    {
+      "Route": "images/H14.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UiA8tfSRTuAOZ+x6rDvUxF3vzMLy958vmx9SHaBW+10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiA8tfSRTuAOZ+x6rDvUxF3vzMLy958vmx9SHaBW+10="
+        }
+      ]
+    },
+    {
+      "Route": "images/H14.mfuxk93mx7.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UiA8tfSRTuAOZ+x6rDvUxF3vzMLy958vmx9SHaBW+10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mfuxk93mx7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UiA8tfSRTuAOZ+x6rDvUxF3vzMLy958vmx9SHaBW+10="
+        }
+      ]
+    },
+    {
+      "Route": "images/H15.3dghgwso4o.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ULVrhpchaHu5diu/kRmuvUvuma5tC90KTuwdF+6mL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dghgwso4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H15.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ULVrhpchaHu5diu/kRmuvUvuma5tC90KTuwdF+6mL0="
+        }
+      ]
+    },
+    {
+      "Route": "images/H15.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ULVrhpchaHu5diu/kRmuvUvuma5tC90KTuwdF+6mL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ULVrhpchaHu5diu/kRmuvUvuma5tC90KTuwdF+6mL0="
+        }
+      ]
+    },
+    {
+      "Route": "images/H16.cdv92nu4n6.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOX6u0uKQqdUu5hv1D2msnPB2aJmq3ZARAutSOqHszc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cdv92nu4n6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOX6u0uKQqdUu5hv1D2msnPB2aJmq3ZARAutSOqHszc="
+        }
+      ]
+    },
+    {
+      "Route": "images/H16.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOX6u0uKQqdUu5hv1D2msnPB2aJmq3ZARAutSOqHszc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOX6u0uKQqdUu5hv1D2msnPB2aJmq3ZARAutSOqHszc="
+        }
+      ]
+    },
+    {
+      "Route": "images/H2.j88qqe4xsa.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYHnqE35nwC0u9RHY/w+DBackzKxZrJFJMWoyM07dS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j88qqe4xsa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYHnqE35nwC0u9RHY/w+DBackzKxZrJFJMWoyM07dS8="
+        }
+      ]
+    },
+    {
+      "Route": "images/H2.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zYHnqE35nwC0u9RHY/w+DBackzKxZrJFJMWoyM07dS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zYHnqE35nwC0u9RHY/w+DBackzKxZrJFJMWoyM07dS8="
+        }
+      ]
+    },
+    {
+      "Route": "images/H3.9lkgzt0hnr.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PaN2kUcGklor+4LGeSzJCqdIawdS/RNzUIZOv6mw9WU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9lkgzt0hnr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PaN2kUcGklor+4LGeSzJCqdIawdS/RNzUIZOv6mw9WU="
+        }
+      ]
+    },
+    {
+      "Route": "images/H3.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PaN2kUcGklor+4LGeSzJCqdIawdS/RNzUIZOv6mw9WU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PaN2kUcGklor+4LGeSzJCqdIawdS/RNzUIZOv6mw9WU="
+        }
+      ]
+    },
+    {
+      "Route": "images/H4.10btlxzd2d.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8aX8HOQDLmBhbwakFTv3+dXwZXL/jlk6lAQSq+K4iBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "10btlxzd2d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8aX8HOQDLmBhbwakFTv3+dXwZXL/jlk6lAQSq+K4iBw="
+        }
+      ]
+    },
+    {
+      "Route": "images/H4.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8aX8HOQDLmBhbwakFTv3+dXwZXL/jlk6lAQSq+K4iBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8aX8HOQDLmBhbwakFTv3+dXwZXL/jlk6lAQSq+K4iBw="
+        }
+      ]
+    },
+    {
+      "Route": "images/H5.ecsfituo1h.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvzjN9rbmceEetuET/aLxtJ3oU4Fj5eaTNcpobRPI/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecsfituo1h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvzjN9rbmceEetuET/aLxtJ3oU4Fj5eaTNcpobRPI/0="
+        }
+      ]
+    },
+    {
+      "Route": "images/H5.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvzjN9rbmceEetuET/aLxtJ3oU4Fj5eaTNcpobRPI/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvzjN9rbmceEetuET/aLxtJ3oU4Fj5eaTNcpobRPI/0="
+        }
+      ]
+    },
+    {
+      "Route": "images/H6.gen9i1hft1.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SFtqSCE4MsG5e5+9Zij9lvpwdn4c9bhL+ShNEdBqHmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gen9i1hft1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFtqSCE4MsG5e5+9Zij9lvpwdn4c9bhL+ShNEdBqHmE="
+        }
+      ]
+    },
+    {
+      "Route": "images/H6.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SFtqSCE4MsG5e5+9Zij9lvpwdn4c9bhL+ShNEdBqHmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFtqSCE4MsG5e5+9Zij9lvpwdn4c9bhL+ShNEdBqHmE="
+        }
+      ]
+    },
+    {
+      "Route": "images/H7.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L80o+4+7mV8VSJDSh/ZWJ95ek1UUZyRKER+fJr8LXTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L80o+4+7mV8VSJDSh/ZWJ95ek1UUZyRKER+fJr8LXTQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/H7.zfnu7xrbxb.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L80o+4+7mV8VSJDSh/ZWJ95ek1UUZyRKER+fJr8LXTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zfnu7xrbxb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L80o+4+7mV8VSJDSh/ZWJ95ek1UUZyRKER+fJr8LXTQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/H8.5xhqfmf8qx.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6tABag0fnTxSvXrENnMwEAP211hyoHphUSHZ4+vVic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xhqfmf8qx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6tABag0fnTxSvXrENnMwEAP211hyoHphUSHZ4+vVic="
+        }
+      ]
+    },
+    {
+      "Route": "images/H8.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6tABag0fnTxSvXrENnMwEAP211hyoHphUSHZ4+vVic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6tABag0fnTxSvXrENnMwEAP211hyoHphUSHZ4+vVic="
+        }
+      ]
+    },
+    {
+      "Route": "images/H9.f80tpx6gy0.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b+MElxUUW8wgwHvHRcYDJAn3+AmwkrvwetgnQTJcAbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f80tpx6gy0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/H9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b+MElxUUW8wgwHvHRcYDJAn3+AmwkrvwetgnQTJcAbU="
+        }
+      ]
+    },
+    {
+      "Route": "images/H9.jpg",
+      "AssetFile": "C:\\Users\\mamoo\\OneDrive\\Documents\\UNI\\4sem\\Visual Programming\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\H9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b+MElxUUW8wgwHvHRcYDJAn3+AmwkrvwetgnQTJcAbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:14:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b+MElxUUW8wgwHvHRcYDJAn3+AmwkrvwetgnQTJcAbU="
+        }
+      ]
+    }
+  ]
+}

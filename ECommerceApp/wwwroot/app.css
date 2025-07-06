@@ -1,0 +1,39 @@
+/* General Styling */
+body {
+    background-color: gray;
+    color: white;
+}
+.modal {
+    display: block !important;
+    z-index: 1050;
+}
+
+.navbar {
+    height: 80px; 
+    font-size: 1.2rem; 
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    font-size: 2rem; 
+    font-weight: bold; 
+}
+
+.product-card {
+    background-color: #1e1e1e;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .product-card:hover {
+        transform: scale(1.25);
+        box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);
+    }
+
+
+.carousel-img {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    margin: 0 auto;
+}

@@ -1,0 +1,44 @@
+﻿@page "/about"
+@rendermode InteractiveServer
+
+<div class="container my-5">
+    <div class="row align-items-center">
+        <!-- Left Side: Circular Image with Hover -->
+        <div class="col-md-6 text-center mb-4 mb-md-0">
+            <img src="images/about.png" class="about-img" alt="About Us">
+        </div>
+
+        <!-- Right Side: Text Section -->
+        <div class="col-md-6 text-black text-center text-md-start">
+            <h2 class="display-5 fw-bold mb-3  text-center justify-content-center">About Us</h2>
+            <p class="text-black text-center justify-content-center">
+                Welcome to <strong>Dark Luxe</strong> – where fashion meets elegance.
+                We specialize in premium-quality heels designed for the bold and classy woman.
+                Our collection features timeless designs, unbeatable comfort, and unmatched craftsmanship.
+            </p>
+            <p class="text-center justify-content-center">
+                Every pair tells a story of empowerment, style, and confidence. Whether you're heading to a formal event or a casual outing,
+                Dark Luxe heels make sure you step in with flair. Explore our collection and walk the talk.
+            </p>
+        </div>
+    </div>
+</div>
+
+<style>
+
+    .about-img
+    {
+        width: 500px;
+        height: 500px;
+        border-radius: 50%;
+        object-fit: cover;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    }
+
+    .about-img:hover
+    {
+        transform: scale(1.1);
+        box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
+    }
+</style>
